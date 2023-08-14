@@ -1,3 +1,3 @@
-# Projects, Contains all my Personal Projects for AWS,GCP and AZURE
+# Projects, Contains all my Personal Projects for AWS iconicit development
 
 
